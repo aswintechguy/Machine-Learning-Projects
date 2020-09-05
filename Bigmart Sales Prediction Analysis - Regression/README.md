@@ -43,4 +43,5 @@ Item_Outlet_Sales | Sales of the product in the particulat store. This is the ou
 <li>Extra Tress
   
 **Mean Squared Error:** 0.28
-**Note:** The Error metric is in log values. To convert to original values use exponentiation.
+
+**Note:** The Error metric is in log values. To convert to original values, use exponentiation.
