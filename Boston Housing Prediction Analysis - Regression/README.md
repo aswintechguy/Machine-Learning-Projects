@@ -1,6 +1,6 @@
 # Boston Housing Prediction Analysis - Regression
 
-**Complete Video Tutorial:** link
+**Complete Video Tutorial:** https://youtu.be/WXXHPiX5LoQ
 
 # Dataset Information
 
