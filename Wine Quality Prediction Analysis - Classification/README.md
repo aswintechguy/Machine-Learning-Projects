@@ -20,7 +20,7 @@ Input variables (based on physicochemical tests): \
 10 - sulphates \
 11 - alcohol \
 Output variable (based on sensory data): \
-12 - quality (score between 0 and 10) \
+12 - quality (score between 0 and 10)
 
 **Download link:** https://www.kaggle.com/rajyellow46/wine-quality
 
