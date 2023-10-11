@@ -4,3 +4,5 @@ Go to the projects folder and see the readme for detailed instructions about the
 
 # Complete video tutorial for the projects:-
 http://bit.ly/mlprojectsplaylist
+
+-hello everyone
