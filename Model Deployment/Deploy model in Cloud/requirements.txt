@@ -1,0 +1,3 @@
+Flask
+scikit-learn
+waitress
